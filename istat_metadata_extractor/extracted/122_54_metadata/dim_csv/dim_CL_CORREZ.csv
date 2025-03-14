@@ -1,0 +1,5 @@
+ID,NAME
+N,raw data
+S,"seasonally adjusted data, not adjusted for calendar effects"
+W,calendar adjusted data
+Y,seasonally adjusted data

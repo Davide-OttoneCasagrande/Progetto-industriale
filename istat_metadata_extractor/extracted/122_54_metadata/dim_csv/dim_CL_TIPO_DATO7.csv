@@ -1,0 +1,306 @@
+ID,NAME
+JVC,job vacancy rate - quarterly data
+HOUR_JV,index of hours worked per employee - base 2005=100
+MHOUR_JV_1,index of volume of hours worked  - base 2010=100
+MHOUR_JV_2,index of volume of hours worked  - base 2015=100
+HOUR_JV_1,index of hours worked per employee - base 2010=100
+EMP_LC_GI_2,employment index (gross of short-time working allowance) - base 2015=100
+HOUR_JV_2,index of hours worked per employee - base 2015=100
+HSTR_JV,overtime hours per 100 hours worked
+EMP_NC_GI_2,employment index (excluding short-time working allowance) - base 2015=100
+HCIG_JV,short-time working allowance hours per 1000 hours worked
+EMP_PT_GI_2,share of part-time employment on total employment - base 2015
+EMP_LC_GI_1,employment index (gross of short-time working allowance)- base 2010=100
+HOUR_GI_2,index of hours worked per employee (excluding short-time working allowance) - base 2015=100
+EMP_LC_GI,employment index (gross of short-time working allowance)- base 2005=100
+HSTR_GI_2,overtime hours per 100 regular hours worked - base 2015
+EMP_NC_GI_1,employment index (excluding short-time working allowance)- base 2010=100
+HCIG_GI_2,short-time working allowance hours per 1000 hours worked - base 2015
+EMP_NC_GI,employment index (excluding short-time working allowance)- base 2005=100
+HSCI_GI_2,strike hours per 1000 hours worked  - base 2015
+EMP_PT_GI_1,share of part-time employment on total employment - base 2010
+LCH_GI_2,hourly labour cost index - base 2015=100
+EMP_PT_GI,share of part-time employment on total employment - base 2005
+LCD_GI_2,index of labour cost per employee (excluding short-time working allowance) - base 2015=100
+HOUR_GI_1,index of hours worked per employee (excluding short-time working allowance) - base 2010=100
+WAGE_H_GI_2,hourly gross earnings index - base 2015=100
+HOUR_GI,index of hours worked per employee (excluding short-time working allowance)- base 2005=100
+WAGE_E_GI_2,index of gross earning per employee (excluding short-time working allowance) - base 2015=100
+HSTR_GI_1,overtime hours per 100 regular hours worked - base 2010=100
+WAGE_C_GI_2,index of regular gross earning per employee (excluding short-time working allowance) - base 2015=100
+HSTR_GI,overtime hours per 100 regular hours worked - base 2005=100
+IN_GI_2,inflow rate (per thousand values) -  base 2015
+HCIG_GI_1,short-time working allowance hours per 1000 hours worked - base 2010
+OUT_GI_2,outflow rate (per thousand values) - base 2015
+HCIG_GI,short-time working allowance hours per 1000 hours worked - base 2005
+HSCI_GI_1,strike hours per 1000 hours worked - base 2010
+HSCI_GI,strike hours per 1000 hours worked - base 2005
+LCH_GI_1,hourly labour cost index - base 2010=100
+LCH_GI,hourly labour cost index - base 2005=100
+LCD_GI_1,index of labour cost per employee (excluding short-time working allowance)- base 2010=100
+LCD_GI,index of labour cost per employee (excluding short-time working allowance)- base 2005=100
+WAGE_H_GI_1,hourly gross earnings index - base 2010=100
+WAGE_H_GI,hourly gross earnings index - base 2005=100
+WAGE_E_GI_1,index of gross earning per employee (excluding short-time working allowance) - base 2010=100
+WAGE_E_GI,index of gross earning per employee (excluding short-time working allowance) - base 2005=100
+WAGE_C_GI_1,index of regular gross earning per employee (excluding short-time working allowance)- base 2010=100
+WAGE_C_GI,index of regular gross earning per employee (excluding short-time working allowance)- base 2005=100
+IN_GI_1,inflow rate (per thousand values) -  base 2010
+IN_GI,inflow rate (per thousand values) - base 2005
+OUT_GI_1,outflow rate (per thousand values) - base 2010
+OUT_GI,outflow rate (per thousand values) - base 2005
+TLC_FTE,labour cost per full time equivalent unit index - base 2005=100
+TLC_FTE_1,labour cost per full time equivalent unit index - base 2010=100
+TLC_FTE_2,labour cost per full time equivalent unit index - base 2015=100
+OLC_FTE,other labour costs per full time equivalent unit index - base 2005=100
+OLC_FTE_1,other labour costs per full time equivalent unit index - base 2010=100
+OLC_FTE_2,other labour costs per full time equivalent unit index - base 2015=100
+WAGE_FTE,gross earnings per full time equivalent unit index - quarterly data - base 2005=100
+WAGE_FTE_1,gross earnings per full time equivalent unit index - quarterly data - base 2010=100
+WAGE_FTE_2,gross earnings per full time equivalent unit index - quarterly data - base 2015=100
+TOT_EMPL,number of payroll jobs index - quarterly data - base 2010=100
+TOT_EMPL_1,number of total payroll jobs index - quarterly data - base 2015=100
+FT_EMPL_1,number of full-time payroll jobs index - quarterly data - base 2015=100
+PT_EMPL_1,number of part-time payroll jobs index - quarterly data - base 2015=100
+WAGE_H,hourly index of wages according to collective labour agreements - base december 2005=100
+WAGE_E,index of wages according to collective labour agreements per employee - base december 2005=100
+WAGE_H_1,hourly index of wages according to collective labour agreements - base december 2010=100
+WAGE_H_2,hourly index of wages according to collective labour agreements - base december 2015=100
+WAGE_E_1,index of wages according to collective labour agreements per employee - base december 2010=100
+WAGE_E_2,index of wages according to collective labour agreements per employee - base december 2015=100
+WAGE_H_CON,hourly index of wages according to collective labour agreements by agreement - base 2005=100
+WAGE_E_CON,index of wages according to collective labour agreements by agreement per employee - base 2005=100
+WAGE_H_ATE,hourly index of wages according to collective labour agreements by Nace - base 2005=100
+WAGE_E_ATE,index of wages according to collective labour agreements by Nace per employee - base 2005=100
+DIP_ATT,employees waiting for renewal of wage contract per 100 employees
+DIP_ATT_1,employees waiting for renewal of wage contract per 100 employees - base december 2010
+DIP_ATT_2,employees waiting for renewal of wage contract per 100 employees - base december 2015
+MES_ATT,average time in months with expired contract per employee waiting for renewal
+MES_ATT_1,average time in months with expired contract per employee waiting for renewal - base december 2010
+MES_ATT_2,average time in months with expired contract per employee waiting for renewal - base december 2015
+MES_TOT,average time in months with expired contract per employee
+MES_TOT_1,average time in months with expired contract per employee - base december 2010
+MES_TOT_2,average time in months with expired contract per employee - base december 2015
+AR,arrivals
+NI,nights spent
+PM,average length of stay
+RTD_TURN,Index of retail trade sales - monthly data - base 2005=100
+RTD_TURN1,Index of retail trade sales - monthly data - base 2010=100
+RTD_TURN2,Volume of  retail trade sales index - monthly data - base 2010=100
+RTD_TURN3,Index of retail trade sales - monthly data - base 2015=100
+RTD_TURN4,Volume of  retail trade sales index - monthly data - base 2015=100
+SERV_TURN,indexes of turnover in other services - base 2005=100
+SERV_TURN_1,indexes of turnover in other services - base 2010=100
+SERV_TURN_2,indexes of turnover in other services - base 2015=100
+SERV_PRIC,services producer prices index - quarterly data - base 2006=100
+SERV_PRIC_ME,services producer prices index - annual average - base 2006=100
+SERV_PRIC_VA_ME,services producer prices index - annual average rate of change - base 2006=100
+SERV_PRIC_VA_C,services producer prices index - percentage changes on the previous period - base 2006=100
+SERV_PRIC_VA_T,services producer prices index - percentage changes on the same period of the previous year - base 2006=100
+SERV_PRIC1,services producer prices index - quarterly data - base 2010=100
+SERV_PRIC2,services producer prices index - quarterly data - base 2015=100
+SERV_PRIC1_ME,services producer prices index - annual average - base 2010=100
+SERV_PRIC2_ME,services producer prices index - annual average - base 2015=100
+SERV_PRIC1_VA_ME,services producer prices index - annual average rate of change - base 2010=100
+SERV_PRIC2_VA_ME,services producer prices index - annual average rate of change - base 2015=100
+SERV_PRIC1_VA_C,services producer prices index - percentage changes on the previous period - base 2010=100
+SERV_PRIC2_VA_C,services producer prices index - percentage changes on the previous period - base 2015=100
+SERV_PRIC1_VA_T,services producer prices index - percentage changes on the same period of the previous year - base 2010=100
+SERV_PRIC2_VA_T,services producer prices index - percentage changes on the same period of the previous year - base 2015=100
+IND_PRIC,producer price index for industrial products - monthly data - base 2005=100
+IND_PRIC1,producer price index for industrial products - monthly data - base 2010=100
+IND_PRIC2,industrial producer price index  - monthly data - base 2015=100
+CONS_CST,construction costs index for residential building - monthly data - base 2005=100
+IND_IMPPRIC,Import price index  - monthly data - Base 2015=100
+CONS_CST1,construction costs index for residential building - monthly data - base 2010=100
+CONS_CST2,construction costs index for residential building - monthly data - base 2015=100
+CONS_CST_CAP,construction costs index for industrial building - monthly data - base 2015=100
+CONS_CSTROAD,construction cost index for roads with tunnel section - monthly data - Base 2010=100
+CONS_CSTROAD9,Construction cost index for roads with tunnel section - monthly data - Base 2015=100
+CONS_CSTROAD1,construction cost index for roads without tunnel section - monthly data - Base 2010=100
+CONS_CSTROAD10,Construction cost index for roads without tunnel section - monthly data - Base 2015=100
+CONS_CSTROAD2,construction cost index for roads in a trench - monthly data - Base 2010=100
+CONS_CSTROAD11,Construction cost index for roads in a trench - monthly data - Base 2015=100
+CONS_CSTROAD3,construction cost index for roads with embankment- monthly data - Base 2010=100
+CONS_CSTROAD12,Construction cost index for roads with embankment- monthly data - Base 2015=100
+CONS_CSTROAD4,bridge construction cost index- monthly data - Base 2010=100
+CONS_CSTROAD13,Bridge construction cost index- monthly data - Base 2015=100
+CONS_CSTROAD5,construction cost index for tunnel entrance - monthly data - Base 2010=100
+CONS_CSTROAD14,Construction cost index for tunnel entrance - monthly data - Base 2015=100
+CONS_CSTROAD6,construction cost index for tunnel type 1 - monthly data - Base 2010=100
+CONS_CSTROAD15,Construction cost index for tunnel type 1 - monthly data - Base 2015=100
+CONS_CSTROAD7,construction cost index for tunnel type 2 - monthly data - Base 2010=100
+CONS_CSTROAD16,Construction cost index for tunnel type 2 - monthly data - Base 2015=100
+CONS_CSTROAD8,construction cost index for tunnel type 3 - monthly data - Base 2010=100
+CONS_CSTROAD17,Construction cost index for tunnel type 3 - monthly data - Base 2015=100
+CONS_PRIC,construction producer price indices (base 2015=100) - monthly data
+IND_TURN,Industrial turnover index - monthly data - base 2005=100
+IND_TURN1,Industrial turnover index - monthly data - base 2010=100
+IND_TURN2,Industrial turnover index - monthly data - base 2015=100
+IND_ORD,Industrial new orders index - monthly data - base 2005=100
+IND_ORD1,Industrial new orders index - monthly data - base 2010=100
+IND_ORD2,Industrial new orders index - monthly data - base 2015=100
+IND_DEFLTURN1,Manufacturing turnover volume index - monthly data - base 2010=100
+IND_DEFLTURN2,Manufacturing turnover volume index - monthly data - base 2015=100
+IND_PROD,industrial production index - base 2005=100
+WAGE_E_COMP,accrual wages according to collective labour agreements per employee
+WAGE_E_COMP_1,accrual wages according to collective labour agreements per employee - base december 2010
+WAGE_E_COMP_2,accrual wages according to collective labour agreements per employee - base december 2015
+CONS_PROD,index of production in construction - base 2005=100
+CONS_PROD1,index of production in construction - base 2010=100
+CONS_PROD2,index of production in construction - base 2015=100
+IND_PROD1,industrial production index - base 2010=100
+IND_PROD2,industrial production index - base 2015=100
+WAGE_E_CASH,cash wages according to collective labour agreements per employee
+WAGE_E_CASH_1,cash wages according to collective labour agreements per employee - base december 2010
+WAGE_E_CASH_2,cash wages according to collective labour agreements per employee - base december 2015
+STR_CLV_01,total number of employed
+STR_CLV_02,total number of employees
+STR_CLV_03,full-time employees
+STR_CLV_04,part-time employees
+STR_CLV_29,apprentices
+STR_CLV_30,total number of employees (excluding apprentices)
+STR_CLV_05,number of enterprises or local units
+STR_CLV_06,total hours paid
+STR_CLV_07,paid hours for full-time employees
+STR_CLV_08,paid hours for part-time employees
+STR_CLV_09,total hours actually worked
+STR_CLV_10,hours actually worked by full-time employees
+STR_CLV_11,hours actually worked by part-time employees
+STR_CLV_12,overtime hours worked
+STR_CLV_13,"direct remuneration, bonuses and allowances (excluding apprentices)"
+STR_CLV_14,guaranteed remuneration in the event of sickness
+STR_CLV_15,wages and salaries in kind (excluding apprentices)
+STR_CLV_17,statutory social-security contributions (excluding apprentices)
+STR_CLV_18,"collectively agreed, contractual and voluntary social-security contributions (excluding apprentices)"
+STR_CLV_19,severance indemnity (excluding apprentices)
+STR_CLV_20,employers' actual social contributions (excluding apprentices)
+STR_CLV_21,other imputed social contributions of the employer (excluding apprentices)
+STR_CLV_22,payments to employees leaving the enterprise (excluding apprentices)
+STR_CLV_23,compensation of employees (excluding apprentices)
+STR_CLV_24,vocational training costs (excluding apprentices)
+STR_CLV_25,direct remuneration of employees (apprentices)
+STR_CLV_31,social-security contributions (apprentices)
+STR_CLV_16,wages and salaries (including apprentices)
+STR_CLV_26,compensation of employees+vocational training costs (excluding apprentices)
+STR_CLV_27,other expenditure/subsidies paid/received by the employer
+STR_CLV_28,labour cost
+GR_UT_002,gross occupancy rate of bed-places  (percentage)
+NT_UT_001,net occupancy rate of bed-places (percentage)
+NUM_EST,number of establishments
+BEDS,bed-places
+BED_RMS,bedrooms
+BTH_RMS,bathrooms
+TOT_H_GR,annual gross hours according to collective labour agreements
+TOT_H_NT,annual net hours according to collective labour agreements
+H_AV_HLD,average hours of holiday and other holidays
+H_WKLY_GR,gross weekly hours according to collective labour agreements in october
+H_RDCT,other hours reduction
+FLIGHT,commercial flights
+FLIGHT_VTPERC,commercial flights  (percentage variation respect the same period of the previous year)
+T,freight and mail carried - tons
+T_VTPERC,freight and mail carried - tons  (percentage variation respect the same period of the previous year)
+GHU,goods unloaded - tons (thousands)
+GHL,goods loaded - tons (thousands)
+GH,goods loaded  and unloaded - tons (thousands)
+GHMORE,goods handled - tons (thousands) (Countries that transport more than one million tons)
+VARG,goods (percentage variations)
+PASS,passengers carried
+PASS_KM,passenger-km (thousands)
+PASS_AVG_DST_KM,average distance travelled in km (passengers)
+PASS_VTPERC,passengers carried  (percentage variation respect the same period of the previous year)
+PATR,direct transit passeggers
+PDI,passengers disembarked (thousands)
+PEM,passengers embarked (thousands)
+PAX,passengers embarked and disembarked (thousands)
+VARP,passengers (percentage variations)
+PASS_TRN_KM,passengers train movements in train-km (thousands)
+VN,vessel traffic
+GT,gross tonnage of vessels - tons (thousands)
+AD_KM,average distance travelled by goods - km
+NUMDW,dwellings
+SRF,surface (square metres)
+USFLAR,useful floor area (square metres)
+NUMDW_VC,dwellings in new residential buildings (percentage change on the previous period )
+NUMDW_VT,dwellings in new residential buildings (percentage change on the same period of the previous year)
+USFLAR_VC,useful floor area (percentage change on the previous period )
+USFLAR_VT,useful floor area in new residential buildings (percentage change on the same period of the previous year)
+SRF_IND,new non-residential construction surface (square metres)
+SRF_IND_VC,new non-residential construction surface (percentage change on the previous period)
+SRF_IND_VT,new non-residential construction surface (percentage change on the same period of the previous year)
+HOUWAG_ENTEMP_AV_MI,Gross hourly wage per hour paid of employee jobs in euro (average).
+RETR_ORAR,hourly wages of employees (average)
+HOUWAG_ENTEMP_FIRD_MI,Gross hourly wage per hour paid of employee jobs in euro (first decile).
+RETR_ORAR_1DEC,hourly wages of employees (first decile)
+HOUWAG_ENTEMP_MED_MI,Gross hourly wage per hour paid of employee jobs  in euros (median).
+RETR_ORAR_MED,hourly wages of employees (median)
+HOUWAG_ENTEMP_NIND_MI,Gross hourly wage per hour paid of employee jobs in euro (ninth decile).
+RETR_ORAR_9DEC,hourly wages of employees (ninth decile)
+GDS_TRN_KM,goods train movements in train-km (thousands)
+GOOD_AVG_DST_KM,average distance goods travelled in km
+PASS_AVG_DST_KM_2,average distance travelled in km (passenger)
+NUMBER_INC,number of significant railway accidents
+KLD_PASS_RAIL_INC,number of passengers killed in significant railway accidents
+INJ_PASS_RAIL_INC,number of passengers seriously injured in significant railway accidents
+KLD_PERS_RAIL_INC,personal killed in significant railway accidents
+INJ_PERS_RAIL_INC,personal seriously injured in significant railway accidents
+OTH_KLD_PEOP_RAIL_INC,other persons (different from passengers and personal) killed in significant railway accidents
+OTH_INJ_PEOP_RAIL_INC,other persons (different from passengers and personal)seriously injured in significant railway accidents
+TOT_KLD_RAIL_INC,total number of persons killed in significant railway accidents
+TOT_INJ_RAIL_INC,total number of persons injured in significant railway accidents
+GC_TON,goods lifted - tonnes
+GC_TKM,goods moved - thousands of tonne-kilometre
+RTD_TURN_VAL_21,Index of retail trade sales - monthly data - base 2021=100
+RTD_TURN_VOL_21,Volume of  retail trade sales index - monthly data - base 2021=100
+IND_PROD_21,industrial production index - base 2021=100
+CONS_PROD_21,index of production in construction - base 2021=100
+IND_PRIC_2021,industrial producer price index  - monthly data - base 2021=100
+IND_IMPPRIC_2021,Import price index  - monthly data - Base 2021=100
+CONS_PRIC_2021,construction producer price indices (base 2021=100) - monthly data
+CONS_CST2_2021,construction costs index for residential building - monthly data - base 2021=100
+CONS_CST_CAP_2021,construction costs index for industrial building - monthly data - base 2021=100
+CONS_CSTROAD9_2021,Construction cost index for roads with tunnel section - monthly data - Base 2021=100
+CONS_CSTROAD10_2021,Construction cost index for roads without tunnel section - monthly data - Base 2021=100
+CONS_CSTROAD11_2021,Construction cost index for roads in a trench - monthly data - Base 2021=100
+CONS_CSTROAD12_2021,Construction cost index for roads with embankment- monthly data - Base 2021=100
+CONS_CSTROAD13_2021,Bridge construction cost index- monthly data - Base 2021=100
+CONS_CSTROAD14_2021,Construction cost index for tunnel entrance - monthly data - Base 2021=100
+CONS_CSTROAD15_2021,Construction cost index for tunnel type 1 - monthly data - Base 2021=100
+CONS_CSTROAD16_2021,Construction cost index for tunnel type 2 - monthly data - Base 2021=100
+CONS_CSTROAD17_2021,Construction cost index for tunnel type 3 - monthly data - Base 2021=100
+TLC_FTE_3,labour cost per full time equivalent unit index - base 2021=100
+OLC_FTE_3,social contributions per full time equivalent unit index - base 2021=100
+WAGE_FTE_3,gross wages and salaries per full time equivalent unit index - quarterly data - base 2021=100
+TOT_EMPL_2,number of total payroll jobs index - quarterly data - base 2021=100
+FT_EMPL_2,number of full-time payroll jobs index - quarterly data - base 2021=100
+PT_EMPL_2,number of part-time payroll jobs index - quarterly data - base 2021=100
+JC_EMPL_2,number of on-call payroll jobs index - quarterly data - base 2021=100
+JC_FTE_EMPL_2,labour input intensity of on-call jobs - quarterly data
+IND_TURN_21,Industrial turnover index - monthly data - base 2021=100
+IND_DEFLTURN_21,Industrial turnover volume index - monthly data - base 2021=100
+SERV_TURN_VAL_21,turnover in other services - value indexes - base 2021=100
+SERV_TURN_VOL_21,turnover in other services - volume indexes - base 2021=100
+WAGE_E_CASH_2021,cash wages according to collective labour agreements per employee - base december 2021
+WAGE_H_2021,hourly index of wages according to collective labour agreements - base december 2021=100
+WAGE_E_2021,index of wages according to collective labour agreements per employee - base december 2021=100
+WAGE_E_COMP_2021,accrual wages according to collective labour agreements per employee - base december 2021
+DIP_ATT_2021,employees waiting for renewal of wage contract per 100 employees - base december 2021
+MES_ATT_2021,average time in months with expired contract per employee waiting for renewal - base december 2021
+MES_TOT_2021,average time in months with expired contract per employee - base december 2021
+EMP_NC_GI_21,employment index (excluding short-time working allowance) - base 2021=100
+EMP_PT_GI_21,share of part-time employment on total employment - base 2021
+HOUR_GI_21,index of hours worked per employee (excluding short-time working allowance) - base 2021=100
+HSTR_GI_21,overtime hours per 100 regular hours worked - base 2021
+HCIG_GI_21,short-time working allowance hours per 1000 hours worked - base 2021
+HSCI_GI_21,strike hours per 1000 hours worked  - base 2021
+LCH_GI_21,hourly labour cost index - base 2021=100
+LCD_GI_21,index of labour cost per employee (excluding short-time working allowance) - base 2021=100
+WAGE_H_GI_21,hourly gross earnings index - base 2021=100
+WAGE_E_GI_21,index of gross earning per employee (excluding short-time working allowance) - base 2021=100
+WAGE_C_GI_21,index of regular gross earning per employee (excluding short-time working allowance) - base 2021=100
+IN_GI_21,inflow rate (per thousand values) -  base 2021
+OUT_GI_21,outflow rate (per thousand values) - base 2021
+HOUR_JV_2021,index of hours worked per employee - base 2021=100
+MHOUR_JV_2021,index of volume of hours worked  - base 2021=100
+SERV_PRIC2_2021,Services producer prices index Business-to-Business (BtoB) - quarterly data - base 2021=100
+SERV_PRIC2_TOALL_2021,Services producer prices index Business-to-All (BtoAll) - quarterly data - base 2021=100
