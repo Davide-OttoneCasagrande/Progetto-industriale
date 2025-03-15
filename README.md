@@ -17,7 +17,7 @@ This project focuses on the development of a **Power BI dashboard** and a **pres
 - **ISTAT Open Data:**
   - Main source of datasets related to tourism in Liguria.
   - **Dataflows:**
-  - -"122_54": "Capacity of collective accommodation establishments and Occupancy in collective accommodation establishments".
+      - "122_54": "Capacity of collective accommodation establishments and Occupancy in collective accommodation establishments".
 
 ## Deliverables
 1. **Power BI Dashboard**:  
