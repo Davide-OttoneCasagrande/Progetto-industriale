@@ -1,0 +1,33 @@
+PathLength = 
+VAR path_value = PATH(dim_gerarchia_luogo[id],dim_gerarchia_luogo[parent_ID]) --get child parenth path
+RETURN
+PATHLENGTH(path_value)
+
+
+
+
+Regione = 
+VAR path_value = PATH(dim_gerarchia_luogo[id],dim_gerarchia_luogo[parent_ID]) --get child parenth path
+VAR path_level = 1 --level
+VAR path_item = PATHITEM(path_value,path_level,TEXT) -- get the id from the path column
+VAR path_item_name = LOOKUPVALUE(dim_gerarchia_luogo[nome],dim_gerarchia_luogo[id],path_item) --search the name
+RETURN
+path_item_name
+
+
+
+Provincia = 
+VAR path_value = PATH(dim_gerarchia_luogo[id],dim_gerarchia_luogo[parent_ID]) --get child parenth path
+VAR path_level = 2 --level
+VAR path_item = PATHITEM(path_value,path_level,TEXT) -- get the id from the path column
+VAR path_item_name = LOOKUPVALUE(dim_gerarchia_luogo[nome],dim_gerarchia_luogo[id],path_item) --search the name
+RETURN
+path_item_name
+
+Comune = 
+VAR path_value = PATH(dim_gerarchia_luogo[id],dim_gerarchia_luogo[parent_ID]) --get child parenth path
+VAR path_level = 3 --level
+VAR path_item = PATHITEM(path_value,path_level,TEXT) -- get the id from the path column
+VAR path_item_name = LOOKUPVALUE(dim_gerarchia_luogo[nome],dim_gerarchia_luogo[id],path_item) --search the name
+RETURN
+path_item_name

@@ -10,7 +10,7 @@ select ft."REF_AREA", data_type.nome DATA_TYPE, tAccomodation.nome TYPE_ACCOMODA
 	sizeByRoom.nome SIZE_BY_NUMBER_ROOMS, ft."TIME_PERIOD", ft."OBS_VALUE"
 from facts_turismo ft
 left join dim_cl_tipo_dato7 data_type on ft."DATA_TYPE" = data_type.id
-left join dim_cl_tipo_alloggio2 tAccomodation on ft."TYPE_ACCOMODATION"  = tAccomodation.id
+left join dim_cl_tipo_alloggio2 tAccomodation on ft."TYPE_ACCOMMODATION"  = tAccomodation.id
 left join dim_cl_ateco_2007 ateco2007 on ft."ECON_ACTIVITY_NACE_2007" = ateco2007.id
 left join dim_cl_iso countryResidence on ft."COUNTRY_RES_GUESTS" = countryResidence.id
 left join dim_cl_tipoitter1 localityType on ft."LOCALITY_TYPE" = localityType.id
